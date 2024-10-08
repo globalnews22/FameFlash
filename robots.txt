@@ -1,0 +1,4 @@
+user-agent: *
+allow: /
+
+sitemap: https://access-test.kingseducation.com/sitemap_index.xml
